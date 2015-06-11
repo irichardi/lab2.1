@@ -1,0 +1,9 @@
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\lab2.dll.config
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\lab2.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\lab2.pdb
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\EntityFramework.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\EntityFramework.SqlServer.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\EntityFramework.xml
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\bin\EntityFramework.SqlServer.xml
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\obj\Debug\lab2.dll
+c:\users\gcstudent\documents\visual studio 2013\Projects\lab2\lab2\obj\Debug\lab2.pdb
